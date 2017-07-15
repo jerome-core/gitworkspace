@@ -30,9 +30,6 @@ public class test {
 			System.out.println(blankStr.substring(0, length-str.length()-i) + str +blankStr.substring(0));
 		}
 		System.out.println(result);
-		System.out.println("fuck");
-		System.out.println("hello");
-		System.out.println("hi");
-		System.out.println("jerome");
+		
 	}
 }
