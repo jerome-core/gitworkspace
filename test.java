@@ -32,6 +32,6 @@ public class test {
 		System.out.println(result);
 		System.out.println("fuck");
 		System.out.println("hello");
-		
+		System.out.println("hi");
 	}
 }
